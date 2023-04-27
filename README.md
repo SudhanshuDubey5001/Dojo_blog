@@ -1,4 +1,4 @@
-# Dojo_blog
+# DOJO Blog
 React JS biog website where user can view, create and delete blogs as they want.
 
 Features include -> 
