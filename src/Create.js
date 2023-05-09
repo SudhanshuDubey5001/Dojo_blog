@@ -52,9 +52,6 @@ const CreateBlog = () => {
                 {!pending && <button>Add Blog</button>}
                 {pending && <button disabled>Addding Blog...</button>}
             </form>
-            <p>{title}</p>
-            <p>{body}</p>
-            <p>{author}</p>
         </div>
     );
 }
